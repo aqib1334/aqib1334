@@ -1,19 +1,19 @@
 # Hi there, I'm Aqib Shehzad! 👋
 
-🎓 BS Data Science Student at COMSATS University Islamabad, Wah Campus
-🤖 AI & Machine Learning enthusiast focused on Computer Vision and Predictive Analytics
-📱 Flutter App Developer | 🔥 Firebase | 📊 Power BI | ⛏️ RapidMiner | ☁️ Microsoft Azure
-🌍 Rawalpindi, Pakistan
+ BS Data Science Student at COMSATS University Islamabad, Wah Campus
+ AI & Machine Learning enthusiast focused on Computer Vision and Predictive Analytics
+ Flutter App Developer |  Firebase | Power BI |  RapidMiner | Microsoft Azure
+ Rawalpindi, Pakistan
 
-## 🚀 About Me
-- 🔭 Currently building **Flutter apps with Firebase**
-- 🧠 Built **Deep Learning projects** — Brain Tumor Detection, Alzheimer's Disease Classification
-- ☁️ Worked with **Microsoft Azure** for cloud-based ML solutions
-- 🐍 Strong in **Python** — ML pipelines, Data Analysis, Deep Learning
-- 🌱 Learning **Advanced Deep Learning & Computer Vision**
-- 💬 Ask me about **Python, ML, Deep Learning, Flutter, Data Analysis**
-- 🏆 Open Source Contributor at **OWASP Foundation**
-- 📫 Reach me at: **LinkedIn**
+##  About Me
+-  Currently building **Flutter apps with Firebase**
+-  Built **Deep Learning projects** — Brain Tumor Detection, Alzheimer's Disease Classification
+-  Worked with **Microsoft Azure** for cloud-based ML solutions
+-  Strong in **Python** — ML pipelines, Data Analysis, Deep Learning
+-  Learning **Advanced Deep Learning & Computer Vision**
+-  Ask me about **Python, ML, Deep Learning, Flutter, Data Analysis**
+-  Open Source Contributor at **OWASP Foundation**
+-  Reach me at: **LinkedIn**
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -26,9 +26,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://readme-stats.gassets.xyz/api?username=aqib1334&show_icons=true&theme=dark)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqib1334&theme=dark)](https://git.io/streak-stats)
