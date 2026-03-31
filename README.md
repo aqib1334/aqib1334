@@ -28,7 +28,7 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqib1334&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqib1334&show_icons=true&theme=dark&hide_border=true)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqib1334&theme=dark)](https://git.io/streak-stats)
