@@ -28,14 +28,8 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqib1334&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aqib1334&show_icons=true&theme=dark&cache_seconds=1800)
 
 ## 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aqib1334&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 Open Source Contributions
-- ✅ Contributed to **OWASP Nest** — Added Playwright e2e smoke tests
-
-## 🧠 Notable Projects
-- ☁️ **Microsoft Azure** — Cloud ML Solutions
-- 📱 **Flutter App** — Firebase Integration
