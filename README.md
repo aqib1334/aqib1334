@@ -7,7 +7,7 @@
 
 ##  About Me
 -  Currently building **Flutter apps with Firebase**
--  Built **Deep Learning projects** — Brain Tumor Detection, Alzheimer's Disease Classification
+-  Built **Deep Learning projects** — Brain Tumor Detection,
 -  Worked with **Microsoft Azure** for cloud-based ML solutions
 -  Strong in **Python** — ML pipelines, Data Analysis, Deep Learning
 -  Learning **Advanced Deep Learning & Computer Vision**
